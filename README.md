@@ -1,2 +1,2 @@
 # Eyes-Track
-An innovative real-time system that uses deep learning and Python to detect distraction, fatigue, and drowsiness through facial and hand cues—triggering instant or sustained alerts based on user state.
+This project presents a responsive and extensible system that combines computer vision and deep learning to monitor user focus and alertness in real time. The demo processes webcam input, tracks key facial and hand features, and uses two distinct models—one for fatigue and one for distraction—to trigger appropriate alerts. Ideal for research in human-computer interaction, workplace safety, and AI-powered behavioral monitoring.
